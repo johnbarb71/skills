@@ -1,0 +1,2 @@
+# skills
+Skills para IA
