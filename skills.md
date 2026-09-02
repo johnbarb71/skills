@@ -45,7 +45,7 @@ Utiliza excepciones de dominio personalizadas (ej. `UserNotFoundException`) en l
 
 - Estilos en línea (excepto para valores dinámicos).
 
-- Tailwind CSS (a menos que se solicite explícitamente más adelante).
+- SASS como preprocesador CSS (a menos que se solicite explícitamente más adelante).
 
 ## 4. Flujos de trabajo
 - Siempre verifique los cambios localmente antes de solicitar una revisión.
