@@ -1,0 +1,26 @@
+{
+  "name": "@johnbarb71/reglas-generales",
+  "version": "1.0.0",
+  "description": "Skill de reglas generales de ingeniería para agentes de IA. Instálala en tu proyecto con npx github:johnbarb71/skills",
+  "type": "module",
+  "bin": {
+    "reglas-generales": "./bin/cli.js"
+  },
+  "files": [
+    "skills.md",
+    "bin"
+  ],
+  "keywords": [
+    "ai",
+    "agents",
+    "skill",
+    "claude",
+    "opencode",
+    "engineering"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbarb71/skills.git"
+  }
+}
